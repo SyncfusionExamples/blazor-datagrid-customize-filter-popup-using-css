@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sample demonstrates how to customize the filter dialog popup dimensions for specific columns in the Syncfusion Blazor DataGrid by using CSS. The implementation focuses on modifying the appearance of the Excel-style filter popup, allowing developers to control the width and height of the filter dialog independently from the default DataGrid styling. This approach is useful when filter content requires additional display space or when application-specific design requirements mandate customized filter dialog dimensions. The sample provides a practical reference for adjusting filter popup presentation without modifying the DataGrid filtering functionality.
+This sample demonstrates how to customize the filter dialog popup dimensions for specific columns in the Syncfusion [Blazor DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid) by using CSS. The implementation focuses on modifying the appearance of the Excel-style filter popup, allowing developers to control the width and height of the filter dialog independently from the default DataGrid styling. This approach is useful when filter content requires additional display space or when application-specific design requirements mandate customized filter dialog dimensions. The sample provides a practical reference for adjusting filter popup presentation without modifying the DataGrid filtering functionality.
 
 ## Key Features
 
